@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b533e5a59323b4c80c336cec54779c, type: 3}
+  m_Name: PhonemeData
+  m_EditorClassIdentifier: 
+  phonemes:
+  - phonemeString: AA
+    audioClip: {fileID: 8300000, guid: e2cc78ddd6796e74ea2e470de903c9e0, type: 3}
+    phonemeCount: 2
+  - phonemeString: AE
+    audioClip: {fileID: 8300000, guid: a847130336890e243b8c5119b83f1ca8, type: 3}
+    phonemeCount: 0
+  - phonemeString: AH
+    audioClip: {fileID: 8300000, guid: 2efa6acbd88110f439bdfd98c23d225b, type: 3}
+    phonemeCount: 0
+  - phonemeString: AO
+    audioClip: {fileID: 8300000, guid: 85d47af38d63e934393c55131b0b8136, type: 3}
+    phonemeCount: 0
+  - phonemeString: AW
+    audioClip: {fileID: 8300000, guid: dc182def93481174c88e442fe84bde28, type: 3}
+    phonemeCount: 0
+  - phonemeString: AY
+    audioClip: {fileID: 8300000, guid: 670835dc58c31544b82883214d46344d, type: 3}
+    phonemeCount: 0
+  - phonemeString: B
+    audioClip: {fileID: 8300000, guid: 1f6d9d4af4df70444b903776a15349a5, type: 3}
+    phonemeCount: 0
+  - phonemeString: CH
+    audioClip: {fileID: 8300000, guid: b0d1668524b0d2c4f83dba44e67324ae, type: 3}
+    phonemeCount: 0
+  - phonemeString: D
+    audioClip: {fileID: 8300000, guid: 8feb6f491446a0f469b6c42b6eef8e07, type: 3}
+    phonemeCount: 0
+  - phonemeString: DH
+    audioClip: {fileID: 8300000, guid: 1f425db4e30b8c94cb35bd33c7fd45f6, type: 3}
+    phonemeCount: 0
+  - phonemeString: EH
+    audioClip: {fileID: 8300000, guid: 484a23a37abca7045a6b94f30444aa47, type: 3}
+    phonemeCount: 0
+  - phonemeString: ER
+    audioClip: {fileID: 8300000, guid: 50ac213076adcee42a86191e0ba19026, type: 3}
+    phonemeCount: 0
+  - phonemeString: EY
+    audioClip: {fileID: 8300000, guid: 936a2f342b15f9a4dadfcc895d928c99, type: 3}
+    phonemeCount: 0
+  - phonemeString: F
+    audioClip: {fileID: 8300000, guid: 08bcbd9674c5e004bbc86d69d4da3fb6, type: 3}
+    phonemeCount: 0
+  - phonemeString: G
+    audioClip: {fileID: 8300000, guid: c568047570c558a4caf309b4e86f38e7, type: 3}
+    phonemeCount: 0
+  - phonemeString: HH
+    audioClip: {fileID: 8300000, guid: 6afd296619124074aaa5cef198580ad4, type: 3}
+    phonemeCount: 0
+  - phonemeString: IH
+    audioClip: {fileID: 8300000, guid: 11928e5619948ae4d931f6c30ce44cf4, type: 3}
+    phonemeCount: 0
+  - phonemeString: IY
+    audioClip: {fileID: 8300000, guid: d26dab78b425fac4bac77bbcd5e81d55, type: 3}
+    phonemeCount: 0
+  - phonemeString: JH
+    audioClip: {fileID: 8300000, guid: 130254983e1977049bda6dc8838cc545, type: 3}
+    phonemeCount: 0
+  - phonemeString: K
+    audioClip: {fileID: 8300000, guid: 43c8742b6051b514cb18a54a803cf3ef, type: 3}
+    phonemeCount: 0
+  - phonemeString: L
+    audioClip: {fileID: 8300000, guid: 834d7930362fee0469a211b5475bfd86, type: 3}
+    phonemeCount: 0
+  - phonemeString: M
+    audioClip: {fileID: 8300000, guid: fb8fa57a5b892ed4a934fee02725123b, type: 3}
+    phonemeCount: 0
+  - phonemeString: N
+    audioClip: {fileID: 8300000, guid: 8db0d29d5a7091440bb63aaafb240a41, type: 3}
+    phonemeCount: 0
+  - phonemeString: NG
+    audioClip: {fileID: 8300000, guid: 5bedae84b1a38c9499c9c59cda32f36c, type: 3}
+    phonemeCount: 0
+  - phonemeString: OW
+    audioClip: {fileID: 8300000, guid: 66392fb13c163d04282a50b6eea3e73e, type: 3}
+    phonemeCount: 0
+  - phonemeString: OY
+    audioClip: {fileID: 8300000, guid: 7319cedb7ce3e9142be4c2bf95f75361, type: 3}
+    phonemeCount: 0
+  - phonemeString: P
+    audioClip: {fileID: 8300000, guid: 94fcf4b84fd0e6c49a6ee2a98f6f6226, type: 3}
+    phonemeCount: 0
+  - phonemeString: R
+    audioClip: {fileID: 8300000, guid: 395c1bb21af30654399cc2e1fef7b368, type: 3}
+    phonemeCount: 0
+  - phonemeString: S
+    audioClip: {fileID: 8300000, guid: 1a9933fffefe95e418eee3d8de6b3e73, type: 3}
+    phonemeCount: 0
+  - phonemeString: SH
+    audioClip: {fileID: 8300000, guid: c794076dca217474cbca5f79d7c8d94d, type: 3}
+    phonemeCount: 0
+  - phonemeString: T
+    audioClip: {fileID: 8300000, guid: 4b003d7a7f3f08f46bb952df9fedb475, type: 3}
+    phonemeCount: 0
+  - phonemeString: TH
+    audioClip: {fileID: 8300000, guid: 1b300747aecd4834e86ae84c6a02dab1, type: 3}
+    phonemeCount: 0
+  - phonemeString: UH
+    audioClip: {fileID: 8300000, guid: 983794133c7aa714e8318c610e408c61, type: 3}
+    phonemeCount: 0
+  - phonemeString: UW
+    audioClip: {fileID: 8300000, guid: 3ae8225ab6bd1454f8db4c56f5b1c583, type: 3}
+    phonemeCount: 0
+  - phonemeString: V
+    audioClip: {fileID: 8300000, guid: 9d429fb521132ba4cae4250f1aa62c9b, type: 3}
+    phonemeCount: 0
+  - phonemeString: W
+    audioClip: {fileID: 8300000, guid: cf2160a6af54c7a4399b4e2510dde750, type: 3}
+    phonemeCount: 0
+  - phonemeString: Y
+    audioClip: {fileID: 8300000, guid: 1f93d05f68a25b348acdbb1e542a0ce7, type: 3}
+    phonemeCount: 0
+  - phonemeString: Z
+    audioClip: {fileID: 8300000, guid: 783b057b592ebdc48b9f8a163007b177, type: 3}
+    phonemeCount: 0
+  - phonemeString: ZH
+    audioClip: {fileID: 8300000, guid: e996ee9b7640a0842bcb03f59543d62a, type: 3}
+    phonemeCount: 0
