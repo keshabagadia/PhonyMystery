@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class NullView : View
 {
-    [SerializeField] private GameObject canvases;
-    [SerializeField] private GameObject gameCanvas;
+    // [SerializeField] private GameObject canvases;
+    // [SerializeField] private GameObject gameCanvas;
     public override void Initialize()
     {
         //gameCanvas.SetActive(true);
