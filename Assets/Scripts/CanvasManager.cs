@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnvCanvasManager : MonoBehaviour
+public class CanvasManager : MonoBehaviour
 {
-    public static EnvCanvasManager instance;
+    public static CanvasManager instance;
     public List<GameObject> canvases = new List<GameObject>();
     public GameObject currentCanvas;
     public GameObject startCanvas;

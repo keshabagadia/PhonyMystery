@@ -77,7 +77,6 @@ public class DialogueSequence : MonoBehaviour
             // {
             //     yield return null;
             // }
-            //Commented for when user controls dialogue pace
             yield return new WaitForSeconds(2f);
             if(currentDialogueLine.isAnswer)
             {
